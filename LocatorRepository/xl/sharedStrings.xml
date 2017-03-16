@@ -1,2 +1,167 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="682" uniqueCount="166"><si><t>Navigation</t></si><si><t>Login</t></si><si><t>Module</t></si><si><t>Locator type</t></si><si><t>Locator</t></si><si><t>Element name</t></si><si><t>Xpath</t></si><si><t>Yes</t></si><si><t>txtUsername</t></si><si><t>txtPassword</t></si><si><t>btnLogin</t></si><si><t>txtStakeForAll</t></si><si><t>Id</t></si><si><t>No</t></si><si><t>setStakeForAll</t></si><si><t>NewHeaderPassword</t></si><si><t>NewHeaderUsername</t></si><si><t>NewHeaderLoginButton</t></si><si><t>XPath</t></si><si><t>//div[@id='purchases']//div[@class='status']</t></si><si><t>//li[starts-with(@id, 'sce_')]</t></si><si><t>//li[@id='{0}']//b[@class='teamAndPointsHolder']</t></si><si><t>//li[@id='{0}']//div[@class='bettingDetails']</t></si><si><t>//li[@id='{0}']//input[starts-with(@id, 'stake_')]</t></si><si><t>//div[@class='bettingOptionsLine']//strong[normalize-space()='{0}']</t></si><si><t>stakebox_system</t></si><si><t>totalGain</t></si><si><t>//div[@class='mainNavigationWrap']/a[normalize-space()='{0}']</t></si><si><t>//ul[@id='sports_list']/li/a[normalize-space()='{0}']</t></si><si><t>//div[@id='updatableWindowsContainer']/ul/li/h4[normalize-space()='{0}']</t></si><si><t>//div[@id='updatableWindowsContainer']//ul[@class='leagues']/li/h5[normalize-space()='{0}']</t></si><si><t>headerOpenBalance</t></si><si><t>OpenBets</t></si><si><t>ClassName</t></si><si><t>ticket_view_table</t></si><si><t>BetSelection</t></si><si><t>//div[contains(@class, 'bet_type ')]//h6[normalize-space()='{0}']/parent::*//dt[normalize-space()='{1}']</t></si><si><t>//input[@class='stakebox betSlipStakeItem singleDepositField ']</t></si><si><t>totalDeposit</t></si><si><t>//div[@class='types_bg']//dt[@class='team_betting   ']//a[normalize-space()='{0}']</t></si><si><t>//div[@id='updatableWindowsContainer']//ul//ul/li/h6/span[normalize-space()='{0}']</t></si><si><t>LocatorType</t></si><si><t>CssSelector</t></si><si><t>LinkText</t></si><si><t>PartialLinkText</t></si><si><t>TagName</t></si><si><t>Environment</t></si><si><t>BetSlip</t></si><si><t>BettingHistory</t></si><si><t>lblBetType</t></si><si><t>//div[contains(@class, 'bet_type ')]//h6[normalize-space()='{0}']</t></si><si><t>lblSelection</t></si><si><t>tblSelectionTypes</t></si><si><t>dd</t></si><si><t>btnSelectionBetOutright</t></si><si><t>btnSelectionBetNotOutright</t></si><si><t>//li/dl/dd</t></si><si><t>//dd/ul/li</t></si><si><t>tblSelections</t></si><si><t>lblSelectionBet</t></si><si><t>txtSelectionStakeBox</t></si><si><t>lblSelectionBettingDetails</t></si><si><t>Connected with parent</t></si><si><t>txtFirstSelectionStakeBox</t></si><si><t>txtSystemStakeBox</t></si><si><t>Connected with combo bet name</t></si><si><t>//div[@class='bettingOptionsLine']//strong[normalize-space()='{0}']/parent::*//input</t></si><si><t>//div[@class='bettingMultiLine__data']//span[normalize-space()='{0}']</t></si><si><t>//div[@class='bettingMultiLine']//span[normalize-space()='{0}']/parent::*//input</t></si><si><t>lblComboBetNameRegularBs</t></si><si><t>txtComboBetStakeBoxRegularBs</t></si><si><t>lblComboBetNameUKBs</t></si><si><t>txtComboBetStakeBoxUKBs</t></si><si><t>PlaceBetButton</t></si><si><t>btnPlaceBets</t></si><si><t>Comment connectio nwith system bet name</t></si><si><t>//div[@class='bettingOptionsLine']//strong[normalize-space()='{0}']/parent::*//input[@type='radio']</t></si><si><t>//ul[@id='bet-tabs']/li[@class='{0} betting_slip_nbs active ']</t></si><si><t>lblBetSlipTabActive</t></si><si><t>lblBetSlipTabInactive</t></si><si><t>lblCostBetSlip</t></si><si><t>lblTotalReturnBetSlip</t></si><si><t>lblBetReceiptStatus</t></si><si><t>//table[@class='ticket_view_table']/tbody/tr/td</t></si><si><t>txtTicketID</t></si><si><t>historyTicketID</t></si><si><t>btnSubmit</t></si><si><t>submitTicketId</t></si><si><t>lightbox2_modal</t></si><si><t>//div/a[@title='Log Out']</t></si><si><t>lnkLogout</t></si><si><t>btnMenuItem</t></si><si><t>lnkBettingHistory</t></si><si><t>//div/a[@title='Betting History']</t></si><si><t>lblBettingHistory</t></si><si><t>//h2[normalize-space()='Betting History']</t></si><si><t>lnkBranch</t></si><si><t>lblBranch</t></si><si><t>lnkEvent</t></si><si><t>lblEvent</t></si><si><t>btnLeague</t></si><si><t>lblLeague</t></si><si><t>lnkOpenBets</t></si><si><t>popupTicketDetailsBH</t></si><si><t>popupTicketDetailsOB</t></si><si><t>tblBetDetailsBH</t></si><si><t>tblBetDetailsOB</t></si><si><t>Registration</t></si><si><t>btnRegister</t></si><si><t>//span[@class='greenPulseText']</t></si><si><t>popupRegistration</t></si><si><t>//h2[@id='ModalWindow-Header']/strong</t></si><si><t>Comments</t></si><si><t>Name</t></si><si><t>SbtechDemo</t></si><si><t>selDayRegistration</t></si><si><t>selMonthRegistration</t></si><si><t>selYearRegistration</t></si><si><t>selCountryRegistration</t></si><si><t>selCurrencyRegistration</t></si><si><t>selOddsDisplayRegistration</t></si><si><t>selDepositLimitTypeRegistration</t></si><si><t>selDepositLimitAmountRegistration</t></si><si><t>reg_date</t></si><si><t>reg_month</t></si><si><t>reg_year</t></si><si><t>reg_country</t></si><si><t>reg_currency</t></si><si><t>reg_oddsdisplay</t></si><si><t>reg_depositlimit_type</t></si><si><t>reg_depositlimit</t></si><si><t>radBtnSystemBet</t></si><si><t>sport_name__text</t></si><si><t>breadcrumb-text</t></si><si><t>Column1</t></si><si><t>Valid for responsive</t></si><si><t>//span[@class='leagueName' and text()=(normalize-space()='{0}')]</t></si><si><t>//h3[@id='leagueViewHeader']/span[normalize-space()='{0}']</t></si><si><t>all_leagues_more</t></si><si><t>//div[@class='event-details event-details-upcomming']//span[text()='{0}']/ancestor::div[@class='event-details event-details-upcomming']//span[text()='{1}']/ancestor::div[@class='event-details event-details-upcomming']</t></si><si><t>//div[@class='prelive-scoreboard-item']//div[text()='{0}']/ancestor::div[@class='prelive-scoreboard-item']//div[text()='{1}']</t></si><si><t>//a[@class='page-header-link page-header-simple-link' and @title='OPEN BETS']</t></si><si><t>//h3[@class='heading sectionHeading' and text()='Open Bets']</t></si><si><t>lnkMyAccount</t></si><si><t>hr-top-Top_ResponsiveHeader_12121-page-header-right5-main-container</t></si><si><t>//span[@class='breadcrumb-text' and text()='Betting History']</t></si><si><t>//a[@title='Join now']</t></si><si><t>?Valid for responsive?</t></si><si><t>//ul[@class='main_navigation']//a[normalize-space()='{0}']</t></si><si><t>SbtechDemoResponsive</t></si><si><t>btnShowAllLeagues</t></si><si><t>Username</t></si><si><t>Password</t></si><si><t>submit_login</t></si><si><t>lblFullName</t></si><si><t>//div[@class='page-header-element']/span[@title='{0}']</t></si><si><t>btnLoginForm</t></si><si><t>//div[@class='page-header-element']/a[@title='Login']</t></si><si><t>//div/a[@title='Logout']</t></si><si><t>//ul[@id='bet-tabs']/li[starts-with(@class, '{0} betting_slip_nbs')]</t></si><si><t>//td[@class='first']</t></si><si><t>tblOpenBets</t></si><si><t>lblOpenBets</t></si><si><t>asdasdasd</t></si><si><t>assadasdsadasdasd</t></si><si><t>asdasdasdasdasdasdasdasdasda</t></si></sst>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="682" uniqueCount="166"><si><t>Navigation</t></si> 
+ <si><t>Login</t></si> 
+ <si><t>Module</t></si> 
+ <si><t>Locator type</t></si> 
+ <si><t>Locator</t></si> 
+ <si><t>Element name</t></si> 
+ <si><t>Xpath</t></si> 
+ <si><t>Yes</t></si> 
+ <si><t>txtUsername</t></si> 
+ <si><t>txtPassword</t></si> 
+ <si><t>btnLogin</t></si> 
+ <si><t>txtStakeForAll</t></si> 
+ <si><t>Id</t></si> 
+ <si><t>No</t></si> 
+ <si><t>setStakeForAll</t></si> 
+ <si><t>NewHeaderPassword</t></si> 
+ <si><t>NewHeaderUsername</t></si> 
+ <si><t>NewHeaderLoginButton</t></si> 
+ <si><t>XPath</t></si> 
+ <si><t>//div[@id='purchases']//div[@class='status']</t></si> 
+ <si><t>//li[starts-with(@id, 'sce_')]</t></si> 
+ <si><t>//li[@id='{0}']//b[@class='teamAndPointsHolder']</t></si> 
+ <si><t>//li[@id='{0}']//div[@class='bettingDetails']</t></si> 
+ <si><t>//li[@id='{0}']//input[starts-with(@id, 'stake_')]</t></si> 
+ <si><t>//div[@class='bettingOptionsLine']//strong[normalize-space()='{0}']</t></si> 
+ <si><t>stakebox_system</t></si> 
+ <si><t>totalGain</t></si> 
+ <si><t>//div[@class='mainNavigationWrap']/a[normalize-space()='{0}']</t></si> 
+ <si><t>//ul[@id='sports_list']/li/a[normalize-space()='{0}']</t></si> 
+ <si><t>//div[@id='updatableWindowsContainer']/ul/li/h4[normalize-space()='{0}']</t></si> 
+ <si><t>//div[@id='updatableWindowsContainer']//ul[@class='leagues']/li/h5[normalize-space()='{0}']</t></si> 
+ <si><t>headerOpenBalance</t></si> 
+ <si><t>OpenBets</t></si> 
+ <si><t>ClassName</t></si> 
+ <si><t>ticket_view_table</t></si> 
+ <si><t>BetSelection</t></si> 
+ <si><t>//div[contains(@class, 'bet_type ')]//h6[normalize-space()='{0}']/parent::*//dt[normalize-space()='{1}']</t></si> 
+ <si><t>//input[@class='stakebox betSlipStakeItem singleDepositField ']</t></si> 
+ <si><t>totalDeposit</t></si> 
+ <si><t>//div[@class='types_bg']//dt[@class='team_betting   ']//a[normalize-space()='{0}']</t></si> 
+ <si><t>//div[@id='updatableWindowsContainer']//ul//ul/li/h6/span[normalize-space()='{0}']</t></si> 
+ <si><t>LocatorType</t></si> 
+ <si><t>CssSelector</t></si> 
+ <si><t>LinkText</t></si> 
+ <si><t>PartialLinkText</t></si> 
+ <si><t>TagName</t></si> 
+ <si><t>Environment</t></si> 
+ <si><t>BetSlip</t></si> 
+ <si><t>BettingHistory</t></si> 
+ <si><t>lblBetType</t></si> 
+ <si><t>//div[contains(@class, 'bet_type ')]//h6[normalize-space()='{0}']</t></si> 
+ <si><t>lblSelection</t></si> 
+ <si><t>tblSelectionTypes</t></si> 
+ <si><t>dd</t></si> 
+ <si><t>btnSelectionBetOutright</t></si> 
+ <si><t>btnSelectionBetNotOutright</t></si> 
+ <si><t>//li/dl/dd</t></si> 
+ <si><t>//dd/ul/li</t></si> 
+ <si><t>tblSelections</t></si> 
+ <si><t>lblSelectionBet</t></si> 
+ <si><t>txtSelectionStakeBox</t></si> 
+ <si><t>lblSelectionBettingDetails</t></si> 
+ <si><t>Connected with parent</t></si> 
+ <si><t>txtFirstSelectionStakeBox</t></si> 
+ <si><t>txtSystemStakeBox</t></si> 
+ <si><t>Connected with combo bet name</t></si> 
+ <si><t>//div[@class='bettingOptionsLine']//strong[normalize-space()='{0}']/parent::*//input</t></si> 
+ <si><t>//div[@class='bettingMultiLine__data']//span[normalize-space()='{0}']</t></si> 
+ <si><t>//div[@class='bettingMultiLine']//span[normalize-space()='{0}']/parent::*//input</t></si> 
+ <si><t>lblComboBetNameRegularBs</t></si> 
+ <si><t>txtComboBetStakeBoxRegularBs</t></si> 
+ <si><t>lblComboBetNameUKBs</t></si> 
+ <si><t>txtComboBetStakeBoxUKBs</t></si> 
+ <si><t>PlaceBetButton</t></si> 
+ <si><t>btnPlaceBets</t></si> 
+ <si><t>Comment connectio nwith system bet name</t></si> 
+ <si><t>//div[@class='bettingOptionsLine']//strong[normalize-space()='{0}']/parent::*//input[@type='radio']</t></si> 
+ <si><t>//ul[@id='bet-tabs']/li[@class='{0} betting_slip_nbs active ']</t></si> 
+ <si><t>lblBetSlipTabActive</t></si> 
+ <si><t>lblBetSlipTabInactive</t></si> 
+ <si><t>lblCostBetSlip</t></si> 
+ <si><t>lblTotalReturnBetSlip</t></si> 
+ <si><t>lblBetReceiptStatus</t></si> 
+ <si><t>//table[@class='ticket_view_table']/tbody/tr/td</t></si> 
+ <si><t>txtTicketID</t></si> 
+ <si><t>historyTicketID</t></si> 
+ <si><t>btnSubmit</t></si> 
+ <si><t>submitTicketId</t></si> 
+ <si><t>lightbox2_modal</t></si> 
+ <si><t>//div/a[@title='Log Out']</t></si> 
+ <si><t>lnkLogout</t></si> 
+ <si><t>btnMenuItem</t></si> 
+ <si><t>lnkBettingHistory</t></si> 
+ <si><t>//div/a[@title='Betting History']</t></si> 
+ <si><t>lblBettingHistory</t></si> 
+ <si><t>//h2[normalize-space()='Betting History']</t></si> 
+ <si><t>lnkBranch</t></si> 
+ <si><t>lblBranch</t></si> 
+ <si><t>lnkEvent</t></si> 
+ <si><t>lblEvent</t></si> 
+ <si><t>btnLeague</t></si> 
+ <si><t>lblLeague</t></si> 
+ <si><t>lnkOpenBets</t></si> 
+ <si><t>popupTicketDetailsBH</t></si> 
+ <si><t>popupTicketDetailsOB</t></si> 
+ <si><t>tblBetDetailsBH</t></si> 
+ <si><t>tblBetDetailsOB</t></si> 
+ <si><t>Registration</t></si> 
+ <si><t>btnRegister</t></si> 
+ <si><t>//span[@class='greenPulseText']</t></si> 
+ <si><t>popupRegistration</t></si> 
+ <si><t>//h2[@id='ModalWindow-Header']/strong</t></si> 
+ <si><t>Comments</t></si> 
+ <si><t>Name</t></si> 
+ <si><t>SbtechDemo</t></si> 
+ <si><t>selDayRegistration</t></si> 
+ <si><t>selMonthRegistration</t></si> 
+ <si><t>selYearRegistration</t></si> 
+ <si><t>selCountryRegistration</t></si> 
+ <si><t>selCurrencyRegistration</t></si> 
+ <si><t>selOddsDisplayRegistration</t></si> 
+ <si><t>selDepositLimitTypeRegistration</t></si> 
+ <si><t>selDepositLimitAmountRegistration</t></si> 
+ <si><t>reg_date</t></si> 
+ <si><t>reg_month</t></si> 
+ <si><t>reg_year</t></si> 
+ <si><t>reg_country</t></si> 
+ <si><t>reg_currency</t></si> 
+ <si><t>reg_oddsdisplay</t></si> 
+ <si><t>reg_depositlimit_type</t></si> 
+ <si><t>reg_depositlimit</t></si> 
+ <si><t>radBtnSystemBet</t></si> 
+ <si><t>sport_name__text</t></si> 
+ <si><t>breadcrumb-text</t></si> 
+ <si><t>Column1</t></si> 
+ <si><t>Valid for responsive</t></si> 
+ <si><t>//span[@class='leagueName' and text()=(normalize-space()='{0}')]</t></si> 
+ <si><t>//h3[@id='leagueViewHeader']/span[normalize-space()='{0}']</t></si> 
+ <si><t>all_leagues_more</t></si> 
+ <si><t>//div[@class='event-details event-details-upcomming']//span[text()='{0}']/ancestor::div[@class='event-details event-details-upcomming']//span[text()='{1}']/ancestor::div[@class='event-details event-details-upcomming']</t></si> 
+ <si><t>//div[@class='prelive-scoreboard-item']//div[text()='{0}']/ancestor::div[@class='prelive-scoreboard-item']//div[text()='{1}']</t></si> 
+ <si><t>//a[@class='page-header-link page-header-simple-link' and @title='OPEN BETS']</t></si> 
+ <si><t>//h3[@class='heading sectionHeading' and text()='Open Bets']</t></si> 
+ <si><t>lnkMyAccount</t></si> 
+ <si><t>hr-top-Top_ResponsiveHeader_12121-page-header-right5-main-container</t></si> 
+ <si><t>//span[@class='breadcrumb-text' and text()='Betting History']</t></si> 
+ <si><t>//a[@title='Join now']</t></si> 
+ <si><t>?Valid for responsive?</t></si> 
+ <si><t>//ul[@class='main_navigation']//a[normalize-space()='{0}']</t></si> 
+ <si><t>SbtechDemoResponsive</t></si> 
+ <si><t>btnShowAllLeagues</t></si> 
+ <si><t>Username</t></si> 
+ <si><t>Password</t></si> 
+ <si><t>submit_login</t></si> 
+ <si><t>lblFullName</t></si> 
+ <si><t>//div[@class='page-header-element']/span[@title='{0}']</t></si> 
+ <si><t>btnLoginForm</t></si> 
+ <si><t>//div[@class='page-header-element']/a[@title='Login']</t></si> 
+ <si><t>//div/a[@title='Logout']</t></si> 
+ <si><t>//ul[@id='bet-tabs']/li[starts-with(@class, '{0} betting_slip_nbs')]</t></si> 
+ <si><t>//td[@class='first']</t></si> 
+ <si><t>tblOpenBets</t></si> 
+ <si><t>lblOpenBets</t></si> 
+ <si><t>asdasdasd</t></si> 
+ <si><t>assadasdsadasdasd</t></si> 
+ <si><t>asdasdasdasdasdasdasdasdasda</t></si></sst>

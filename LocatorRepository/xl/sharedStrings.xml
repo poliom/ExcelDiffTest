@@ -17,7 +17,7 @@
  <si><t>linkBranchLocator</t></si> 
  <si><t>Id</t></si> 
  <si><t>No</t></si> 
- <si><t>setStakeForAll</t></si> 
+ <si><t>setStakeForAll</t></si>
  <si><t>NewHeaderPassword</t></si> 
  <si><t>NewHeaderUsername</t></si> 
  <si><t>NewHeaderLoginButton</t></si> 
